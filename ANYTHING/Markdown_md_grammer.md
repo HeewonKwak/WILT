@@ -60,7 +60,7 @@
 
 나는요...?
 
-"""
+"""python
 이곳에 당신이 원하는
 코드를 입력하세요
 import pandas as pd
@@ -69,10 +69,9 @@ import pandas as pd
 
 <pre>
 <code>
-{
 이곳에 당신이 원하는
 코드를 입력하세요
 import pandas as pd
 이렇게요
-}</code>
+</code>
 </pre>
