@@ -75,3 +75,24 @@ import pandas as pd
 이렇게요
 </code>
 </pre>
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+외부링크: [표시되는 이름][mylink]
+
+[mylink]: https://woniblog.tistory.com "마우스 커서 올리면 보이는 이름"
+
+
+참조링크: [나타내지는 이름](https://woniblog.tistory.com, "마우스 커서 이름")
+
+
+외부링크: <https://woniblog.tistory.com/>
+이메일링크: <address@example.com>
