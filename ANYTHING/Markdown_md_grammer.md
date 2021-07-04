@@ -60,12 +60,12 @@
 
 나는요...?
 
-"""python
+```python
 이곳에 당신이 원하는
 코드를 입력하세요
 import pandas as pd
 이렇게요
-"""
+```
 
 <pre>
 <code>
