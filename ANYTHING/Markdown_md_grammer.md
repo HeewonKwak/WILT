@@ -60,3 +60,19 @@
 
 나는요...?
 
+"""
+이곳에 당신이 원하는
+코드를 입력하세요
+import pandas as pd
+이렇게요
+"""
+
+<pre>
+<code>
+{
+이곳에 당신이 원하는
+코드를 입력하세요
+import pandas as pd
+이렇게요
+}</code>
+</pre>
