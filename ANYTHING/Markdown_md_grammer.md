@@ -99,3 +99,10 @@ import pandas as pd
 이메일링크: <address@example.com>
 
 
+* 별 1개 *
+_ 언더바 1개_
+** 별 2개 **
+__ 언더바 2개 __
+~~ 취소선 ~~
+
+
