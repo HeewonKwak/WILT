@@ -90,7 +90,7 @@ import pandas as pd
 
 [mylink]: https://woniblog.tistory.com "마우스 커서 올리면 보이는 이름"
 
-외부 링크: [타이틀](https://woniblog.tistory.com, "마우스 커서 올리면 보이는 이름")
+외부 링크: [타이틀](https://woniblog.tistory.com/, "마우스 커서 올리면 보이는 이름")
 
 
 외부링크: <https://woniblog.tistory.com/>
